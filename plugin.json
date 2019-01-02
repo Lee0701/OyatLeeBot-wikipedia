@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia",
+  "main": "index.js",
+  "packages": [
+    "wtf_wikipedia@7.2.6"
+  ]
+}
